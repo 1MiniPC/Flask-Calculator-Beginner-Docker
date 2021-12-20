@@ -1,0 +1,1 @@
+/var/jenkins_home/workspace/Flask_Jenkins_Build_qa@tmp/durable-b0e36943/script.sh: 1: /var/jenkins_home/workspace/Flask_Jenkins_Build_qa@tmp/durable-b0e36943/script.sh: sudo: not found

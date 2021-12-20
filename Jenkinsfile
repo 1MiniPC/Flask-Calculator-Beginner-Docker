@@ -34,7 +34,7 @@ pipeline {
         }
         success {
             
-            sh "nohup python3 app.py > log.txt 2>&1 &"
+            sh "python3 app.py"
             echo "Flask Application Up and running!!"
         }
         failure {
